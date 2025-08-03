@@ -1,0 +1,44 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# Rider
+.idea/
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+# Build log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.config
+*.ncb
+*.sdf
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Auto-generated files
+Generated_Code/
