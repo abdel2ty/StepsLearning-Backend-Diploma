@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lecture2
+namespace lecture1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Write
-            Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Test Statement");
         }
     }
 }
